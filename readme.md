@@ -1,41 +1,87 @@
-# Site [www.devfuria.com.br](http://www.devfuria.com.br "DevFuria")
+# DevFuria
 
-O site aborda desenvolvimento de aplicações web.
+Eu fragmentei as seções do site devfuria.
 
-Não é um blog, ele parece-se mais com um site de cursos.
+Agora cada seção tem seu próprio repositório.
 
-Ele é feito especialmente para o público iniciante.
+Você sabe como [instalar o site devfuria](como-instalar/) localmente na sua máquina ?]
 
+Seção Git:
 
-## Instalação - jekyll
+- http://devfuria.com.br/git/
+- https://github.com/flaviomicheletti/git
 
-1. Você deve [instalar a linguagem ruby](http://www.devfuria.com.br/linux/cookbook/ruby-on-rails/).
-2. Instale a gem do Jekyll `gem install jekyll`.
-3. Instale a gem de [sitemap](https://rubygems.org/gems/jekyll-sitemap) `gem install jekyll-sitemap`.
-4. Instale a gem do [redcarpter](https://rubygems.org/gems/redcarpet/) `gem install redcarpet`.
-   Talvez você precise rodar como root `apt-get install ruby-dev`
-5. Instale a gem do [pygments.rb](https://rubygems.org/gems/pygments.rb/) `gem install pygments.rb`.
-6. Clone o repositório (`git clone https://github.com/devfuria/devfuria.com.br.git`).
-7. Execute o jekyll `jekyll server` e veja o resultado em [http://localhost:4000/](http://localhost:4000/).
+Seção Canvas (HTML):
 
+- http://devfuria.com.br/html-canvas/
+- https://github.com/flaviomicheletti/html-canvas
 
-## Instalação - php
+Seção HTML & CSS:
 
-1. Gere o site (`jekyll build`) lembre-se de incluir o disqus e o googleanalytics
-2. Instale as dependencias: `~/composer.phar install`
-6. Crie a pasta `./logs` e dê permissão `777`
-7. Para visualizar tenha um [virtualhost](http://devfuria.com.br/misc/apache-virtual-host) devidamente configurado.
+- http://devfuria.com.br/html-css/
+- https://github.com/flaviomicheletti/html-css
 
+Seção JavaScript:
 
-## Você pode contribuir sim!!!
+- http://devfuria.com.br/javascript/
+- https://github.com/flaviomicheletti/javascript
 
-Quer ajudar de alguma forma?
+Seção Linguagem C:
 
-A primeira coisa que você terá que fazer é definir "em que" e "como" ajudar.
+- http://devfuria.com.br/linguagem-c/
+- https://github.com/flaviomicheletti/linguagem-c
 
-Para gerar o site utilize o jekyll.
+Seção Linux:
 
+- http://devfuria.com.br/linux/
+- https://github.com/flaviomicheletti/linux
 
-## Contato
+Seção Lógica de Programação:
 
-flaviomicheletti@hotmail.com
+- http://devfuria.com.br/logica-de-programacao/
+- https://github.com/flaviomicheletti/logica-de-programacao
+
+Seção Miscellaneous:
+
+- http://devfuria.com.br/miscellaneous/
+- https://github.com/flaviomicheletti/miscellaneous
+
+Seção Node.js:
+
+- http://devfuria.com.br/nodejs/
+- https://github.com/flaviomicheletti/nodejs
+
+Seção PHP:
+
+- http://devfuria.com.br/php/
+- https://github.com/flaviomicheletti/php
+
+Seção Python:
+
+- http://devfuria.com.br/python/
+- https://github.com/flaviomicheletti/python
+
+Seção RegEx:
+
+- http://devfuria.com.br/regex/
+- https://github.com/flaviomicheletti/regex
+
+Seção Segurança da Informação
+
+- http://devfuria.com.br/seguranca-da-informacao/
+- https://github.com/flaviomicheletti/seguranca-da-informacao
+
+Seção SQL:
+
+- http://devfuria.com.br/sql/
+- https://github.com/flaviomicheletti/sql
+
+Seção TDD:
+
+- http://devfuria.com.br/tdd/
+- https://github.com/flaviomicheletti/tdd
+
+Seção Backbonejs:
+
+- http://devfuria.com.br/backbonejs/
+- https://github.com/flaviomicheletti/backbonejs
